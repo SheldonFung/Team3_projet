@@ -1,10 +1,8 @@
-class MaClass
 
+
+class MACalss
 {
 
- 
- //code ici ...
-//Voici mon poème 
-// asdfasedf
-
+  //code ici ...
+  modification de test
 }
